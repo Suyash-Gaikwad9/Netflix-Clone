@@ -25,3 +25,8 @@ Xcode
 Physical Device/Simulator          
 
 
+## Output - 
+
+
+https://user-images.githubusercontent.com/97752627/212479354-3a0d2eb6-6fcc-48e0-a347-9c972d3e2f1e.mp4
+
