@@ -11,7 +11,7 @@ Overall, the project aims to provide users with a similar experience to the offi
   To set up the server as a local host, clone the repository on your computer.
   You must have XCode and Simulator installed.
   
-  Install the dependencies in requirements and install the following Package using github link phttps://github.com/SDWebImage/SDWebImage
+  Install the dependencies in requirements and install the following Package using github link https://github.com/SDWebImage/SDWebImage
   
   
   ### Starting the Application.
